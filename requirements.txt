@@ -1,16 +1,11 @@
-# Core Frameworks
-streamlit
+streamlit==1.31.0
 torch
 timm
 tensorflow
 tensorflow-hub
-
-# Audio Processing (Requires ffmpeg in packages.txt)
 librosa
 pydub
 streamlit-audiorecorder
 torchlibrosa
-
-# Utilities
-numpy
 pathlib
+numpy<2.0.0
