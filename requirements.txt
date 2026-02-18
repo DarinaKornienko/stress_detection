@@ -1,11 +1,16 @@
+# Core Frameworks
 streamlit
-streamlit-audiorecorder
-pydub
 torch
 timm
 tensorflow
 tensorflow-hub
-tf-keras
+
+# Audio Processing (Requires ffmpeg in packages.txt)
 librosa
+pydub
+streamlit-audiorecorder
+torchlibrosa
+
+# Utilities
 numpy
 pathlib
