@@ -1,0 +1,15 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# Local Temp Folders
+temp_uploads/
+tfhub_cache/
+
+# Windows-only executables (since we use packages.txt for the cloud)
+ffmpeg.exe
+ffprobe.exe
+
+# OS junk
+.DS_Store
+Thumbs.db

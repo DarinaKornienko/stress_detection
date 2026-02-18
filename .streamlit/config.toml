@@ -1,0 +1,5 @@
+[server]
+folderWatchBlacklist = ["C:/Users/72119/anaconda3/Lib/site-packages/torch"]
+
+[browser]
+gatherUsageStats = false

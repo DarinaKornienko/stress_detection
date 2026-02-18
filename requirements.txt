@@ -1,0 +1,11 @@
+streamlit
+streamlit-audiorecorder
+pydub
+torch
+timm
+tensorflow
+tensorflow-hub
+tf-keras
+librosa
+numpy
+pathlib
